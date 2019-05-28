@@ -3,7 +3,7 @@
 pwd
 
 echo "my name is bittu and environment choice is $ENV" >> $filename
-/bin/ls -ltr
-a=`/bin/cat $filename`
-/bin/ls -ltr
+ls -ltr
+a=`cat $filename`
+ls -ltr
 echo $a
