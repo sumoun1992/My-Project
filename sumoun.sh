@@ -1,5 +1,4 @@
 #!\bin\bash
-#c:\cygwin
 pwd
 
 echo "my name is bittu and environment choice is $ENV" >> $filename
